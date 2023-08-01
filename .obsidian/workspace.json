@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "0a369242591861f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "cafa997b69989190",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fffd735cc1af1b53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Udnan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c5c5454e9cb4dc2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7aff1fa7e01aca6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52819b67b12a1a7c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "07594d46f8decd80",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4e6944d362bd7fbc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4a4ecb035ca22231",
+    "type": "split",
+    "children": [
+      {
+        "id": "4dd2fa4cdc7a8f76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ace28e9d7e686ed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Udnan.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e4e6a6017f2cceaa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Udnan.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c13ca3474ed97232",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7c015af8bb4e072e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Udnan.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false
+    }
+  },
+  "active": "fffd735cc1af1b53",
+  "lastOpenFiles": [
+    "orphaned files output.md",
+    "files without tags.md",
+    "broken links output.md",
+    "People/Lady Thistle Thornfang.md",
+    "People/Timmothy Feyheart.md",
+    "Notes/Nationernes Historie.md",
+    "Notes/Quests.md",
+    "Udnan.md",
+    "People/Tyrell.md",
+    "Factions/Adventurers Guild.md",
+    "Places/Åby.md",
+    "Sessions/Session 2.md",
+    "2023-08-01.md",
+    "People/Felix.md",
+    "Untitled.canvas",
+    "People/Gronger.md",
+    "People/Lady Margreth.md",
+    "Sessions/Session 0.md",
+    "Sessions/Session 1.md",
+    "Councin of Nations.md",
+    "People/Lucious.md",
+    "Notes/Ministers.md",
+    "People/Frida.md",
+    "People/Zarxhul.md",
+    "Notes/Wraithiron.md",
+    "testing/Wraith Iron.md",
+    "Factions/Wildfire brigade.md",
+    "Templates",
+    "Sessions",
+    "Items",
+    "Notes",
+    "Countries",
+    "Places",
+    "Factions",
+    "Gods",
+    "People",
+    "testing"
+  ]
+}
