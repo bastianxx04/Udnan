@@ -27,7 +27,7 @@ Party merge!
 
 Vi er stadig ikke kommet ind…
 
-Til næsten gang: Sent om natten kommer [[Maximillian Thorian]] ud, og [[Felix]] følger og lukker os ind
+Til næsten gang: Sent om natten kommer [[Maximillian Thorianson]] ud, og [[Felix]] følger og lukker os ind
 
 ### Content created
 

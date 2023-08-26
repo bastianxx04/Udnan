@@ -3,14 +3,7 @@
 Session #
 =========
 
-### The story
 
-…
-
-### Content created
-
-*   …
-    
 
 ### 
 

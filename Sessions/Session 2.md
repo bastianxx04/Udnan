@@ -57,7 +57,7 @@ Hvorfor var kun de 5 guder ved vores intervention, og hvorfor var Maine ikke ibl
 
 Vi fortæller [[Henry]] at han skal til port royal og det er han ok med
 
-[[Gronger]] får sit våben og det er apparently lavet til specifikation 
+[[Gronger Magnetide]] får sit våben og det er apparently lavet til specifikation 
 
 Vi tager tilbage og henter vores 600 kg mad 
 Vi undskylder for Krigsministeren

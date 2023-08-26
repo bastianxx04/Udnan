@@ -1,10 +1,10 @@
 #Notes 
 
-Janurary  5/30 04:00
+Janurary  8/30 10:00
 ```
 0    5    10   15   20   25   30  
 [----|----|----|----|----|----X]	JANURARY
-     ^  
+        ^  
 ```
 
 Day 11 DECEMBER is when we have to drop off the notes \[IN THE ELF CAVE\]  
@@ -13,11 +13,11 @@ Day 26 DECEMBER Vote for wheter merchants should have an army
 Day 28 DECEMBER Legend lore ready again  
 DAY 01 JANUARY  is when weapon is done  
 DAY 02 JANUARY  Trevor Ressurection deadline  
+DAY 07 JANUARY  Go back and get [[Gronger Magnetide]] and go to the dwarf empire
 \-\-\-
-DAY 07 JANUARY  Go back and get [[Gronger]] and go to the dwarf empire
+DAY 14 JANUARY Valget af statsminister 
 DAY 16 JANURAY  Can no longer exchange gildings  
 DAY 29 JANURARY Obsidian pickup status
-
 
 
 //LAST TIME\\\\  
@@ -28,7 +28,6 @@ Monieeeeeeees
 
 //NEXT TIME\\\\    
 Frida vil gerne fikse situationen med Herren over Slummen  
-Køre 200 kg mad over til dværgene og tager gronger med til dværge land
 vote for statsminister
 
 Kast [[Undron]] og [[Oxenfurt]] under bussen for at være associeret med andre faktioner uden for Udnan?

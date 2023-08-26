@@ -6,3 +6,4 @@ Clans:
 
 17 clans can vote
 [[Magnetide]]
+[[Zincite]]

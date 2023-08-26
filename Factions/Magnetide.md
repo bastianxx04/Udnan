@@ -1,4 +1,4 @@
 #Faction
 #Dwarves
 
-[[Gronger]]s faction
+[[Gronger Magnetide]]s faction [[Dwarves]] 

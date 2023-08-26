@@ -15,7 +15,7 @@ Dræb [[Tristan]] (Head paladin af church of [[Maine]] )
 Find [[Dwarves]]
 ---------------------------------------------
 
-[[Gronger]]  
+[[Gronger Magnetide]]  
 Våben quest! - Hammer for støtte med dværgene  
 
 Anskaf 200 kg mad, så vil [[Dwarves]] lade os komme ind i varmen
