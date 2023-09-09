@@ -4,123 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "cafa997b69989190",
+        "id": "dcd57b81f33c7309",
         "type": "tabs",
         "children": [
           {
-            "id": "fffd735cc1af1b53",
+            "id": "d8317d058b1ed5e5",
             "type": "leaf",
             "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "e316e2226bb261e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Wraithite.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc7c1e2355431287",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Udnan.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "1fc49c1f5da71e69",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/Session 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "d23ef9548de71f86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/Asmundgard.md",
-                "mode": "source",
-                "source": false
               }
             }
           },
           {
-            "id": "cf1f8d13ad641c27",
+            "id": "51216f820ad82dc9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Zoltan Mangafan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c39e5bf3b9e68e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Dwarves.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "884bc12da5f7e7ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Dwarf Tunnels.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d711c7a0390dde9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/Asmundgard.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7f9554ee4f266f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Dwarves.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a052af844ff2150",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Alforgeg Zincite.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -149,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Dwarves",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -186,7 +120,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Alforgeg Zincite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +136,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Alforgeg Zincite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,9 +157,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "People/Alforgeg Zincite.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -246,34 +176,34 @@
       "random-note:Open random note": false
     }
   },
-  "active": "52819b67b12a1a7c",
+  "active": "51216f820ad82dc9",
   "lastOpenFiles": [
-    "Places/Asmundgard.md",
-    "People/Belliara Hundier.md",
-    "Notes/Dwarf Tunnels.md",
-    "People/Edward Oxenfurt.md",
-    "People/Myo Pontius.md",
-    "People/Old One Eye.md",
-    "Notes/Simons Shit List.md",
-    "Factions/Zincite.md",
-    "People/Alforgeg Zincite.md",
-    "Sessions/Session 3.md",
+    "Sessions/Session 4.md",
+    "Factions/Wraithite.md",
+    "People/Thurorlum Limonite.md",
+    "Factions/Sillestone.md",
+    "Factions/Pyrite.md",
+    "Factions/Limonite.md",
+    "People/Hakren Thunderbringer.md",
+    "People/Goldum Pyrite.md",
+    "Notes/Det politiske system hos dværgene.md",
+    "People/Destrem Sillestone.md",
     "Udnan.md",
     "Factions/Dwarves.md",
-    "Places/Parchstone.md",
     "Factions/Magnetide.md",
     "People/Gronger Magnetide.md",
-    "People/Zoltan Mangafan.md",
-    "Factions/Handelsflåden.md",
-    "Countries/Jade emperiet.md",
-    "People/Felix.md",
-    "Gods/Jade Dragon.md",
-    "Notes/Ministers.md",
-    "Factions/Edwins Party.md",
-    "People/Hammus Tyrvald.md",
-    "Factions/Templars.md",
-    "Factions/Aleel.md",
-    "People/Professeor Jaccun.md",
+    "Places/Asmundgard.md",
+    "Factions/Zincite.md",
+    "People/Alforgeg Zincite.md",
+    "Sessions/Session 2.md",
+    "Sessions/Session 3.md",
+    "Templates/Session report.md",
+    "People/Tunar Fethermann.md",
+    "People/Thorian.md",
+    "People/Old One Eye.md",
+    "People/Myo Pontius.md",
+    "People/Maximillian Thorianson.md",
+    "People/Hamlin Ulbea.md",
     "Untitled.canvas",
     "Templates",
     "Sessions",

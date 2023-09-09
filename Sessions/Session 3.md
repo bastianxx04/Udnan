@@ -42,7 +42,7 @@ Tommothy spørger external trade minister ind til privat import af: (Mad?)
 Vil sende agenter til havnen
 Hentyder til at en stemme på ham ville gøre ham vilig til at hjælpe
 
-Timmothy forlader og besøger Emilita
+Timmothy forlader og besøger Emilita og spøger efter en medarbejder til [[Port Royal]]
 
 Frida laver research på Udnans geografi
 
