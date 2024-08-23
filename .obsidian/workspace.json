@@ -49,8 +49,12 @@
             "id": "51216f820ad82dc9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 4.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -120,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sessions/Session 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,6 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sessions/Session 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +163,21 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sessions/Session 4.md"
+              }
+            }
+          },
+          {
+            "id": "a76a0e4a8fee28f2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
             }
           }
         ]
@@ -178,6 +198,18 @@
   },
   "active": "51216f820ad82dc9",
   "lastOpenFiles": [
+    "People/Michael Cunningham.md",
+    "Brandon.md",
+    "Calendar.md",
+    "End-game.md",
+    "Gaelion.md",
+    "Gerald Pirate King.md",
+    "Igor.md",
+    "Udnan lore.md",
+    "Udnan Recap.md",
+    "Ting vi kan gøre.md",
+    "Sessions/Session 5.md",
+    "Samson.md",
     "Sessions/Session 4.md",
     "Factions/Wraithite.md",
     "People/Thurorlum Limonite.md",
@@ -192,18 +224,6 @@
     "Factions/Dwarves.md",
     "Factions/Magnetide.md",
     "People/Gronger Magnetide.md",
-    "Places/Asmundgard.md",
-    "Factions/Zincite.md",
-    "People/Alforgeg Zincite.md",
-    "Sessions/Session 2.md",
-    "Sessions/Session 3.md",
-    "Templates/Session report.md",
-    "People/Tunar Fethermann.md",
-    "People/Thorian.md",
-    "People/Old One Eye.md",
-    "People/Myo Pontius.md",
-    "People/Maximillian Thorianson.md",
-    "People/Hamlin Ulbea.md",
     "Untitled.canvas",
     "Templates",
     "Sessions",

@@ -2,7 +2,7 @@
 #Nobles 
 Var engang [[Major Nobles]]
 
-[[Krigsminister]] er her fra
+[[Michael Cunningham]] er her fra
 
 Shit economy
 

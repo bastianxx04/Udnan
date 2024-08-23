@@ -1,7 +1,6 @@
 #Session 
 
-Session 5
-=========
+Date: 09/09-2023
 
 Party går ind i [[Asmundgard]] med [[Gronger Magnetide]]
 
@@ -37,11 +36,8 @@ Vi har sendt Gronger til at tjekke på Lawmakers [[Wraithite]] familien, for at 
 
 Vi bruger en dag på sightseeing, og på ved ud snakker vi med [[Alforgeg Zincite]] om at han kan lukke os ind igen hvis vi kommer tilbage. Han vil gerne have bøger (helst på dwarven) hvis vi skal lukkes ind igen.
 
-### 
+In-game date at end: 10 Janurary 10:00
 
-Date: 09/09-2023
-
-In-game date at end: 11-Janurary 10:00
 
 * * *
 

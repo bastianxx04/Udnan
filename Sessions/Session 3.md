@@ -19,7 +19,7 @@ De rige gosipper over obsidian trade
 
 Felix wants a meeting on the 7th. And only [[Timmothy Feyheart]] shows up.
 
-Felix wants us to vote for [[Krigsminister]]en 
+Felix wants us to vote for [[Michael Cunningham]]en 
 Vi skal ikke campaigne for en anden kandidat
 
 [[Maximillian Thorianson]] Har vundet et stort slag mod sultanatet med en meget lille force.
@@ -42,7 +42,7 @@ Tommothy spørger external trade minister ind til privat import af: (Mad?)
 Vil sende agenter til havnen
 Hentyder til at en stemme på ham ville gøre ham vilig til at hjælpe
 
-Timmothy forlader og besøger Emilita og spøger efter en medarbejder til [[Port Royal]]
+Timmothy forlader og besøger Emilita
 
 Frida laver research på Udnans geografi
 
@@ -56,7 +56,7 @@ Partiet samles endnu en gang og vi rejser nord på mod [[Asmundgard]]
 
 På vejen tager [[Gronger Magnetide]] sit symbol frem og åbner vejen ned til [[Dwarf Tunnels]]
 
-[[Alforgeg Zincite]] viser os væk ved døren, men [[Gronger Magnetide]] 
+[[Alforgeg Zincite]] viser os væk ved døren, men [[Gronger Magnetide]] får at vide den ikke er up to spec
 
 Session end
 ### 

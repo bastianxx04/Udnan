@@ -1,5 +1,5 @@
 #person 
 
-Hopefully the coming søfarts[[Ministers]]
+Hopefully the coming søfarts [[Ministers]]
 
 Af [[Murmier]] Familien
