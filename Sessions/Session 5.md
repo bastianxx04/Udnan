@@ -70,7 +70,7 @@ i 1. runde vandt justitsministeren
 
 [[Hamlin Ulbea]] bliver til seafaring minister
 
-[[Igor]] bliver Internal trade minister
+[[Igor 1]] bliver Internal trade minister
 
 Barnet forbliver spymaster men er adopteret af [[Lucious]]
 

@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 6.md",
+                "file": "Factions/Mülner.md",
                 "mode": "source",
                 "source": false
               },
@@ -28,18 +28,6 @@
               "type": "markdown",
               "state": {
                 "file": "Notes/Ministers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7b51ca71f286c35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Konrad Fethermann.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,19 +70,31 @@
             }
           },
           {
-            "id": "17434a132223c039",
+            "id": "10079744d90f3a4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adrana.md",
+                "file": "Ting vi kan gøre.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9ce0b767d08483c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gods/Adrana.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gods/Krixar.md",
+                "file": "Gods/Adrana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gods/Krixar.md",
+                "file": "Gods/Adrana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gods/Krixar.md"
+                "file": "Gods/Adrana.md"
               }
             }
           },
@@ -228,12 +228,8 @@
             "id": "735c8c33aec5e403",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendar.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -252,34 +248,31 @@
       "random-note:Open random note": false
     }
   },
-  "active": "9d23352289872b85",
+  "active": "52819b67b12a1a7c",
   "lastOpenFiles": [
-    "Udnan lore.md",
-    "Udnan Recap.md",
-    "Samson.md",
-    "Igor.md",
-    "Gerald Pirate King.md",
-    "Gaelion.md",
+    "End-game.md",
     "Brandon.md",
-    "Sessions/Session 6.md",
-    "Calendar.md",
-    "People/Felix.md",
-    "Adrana.md",
-    "Notes/Gods.md",
-    "Gods/Agadera.md",
-    "Gods/Krixar.md",
-    "Notes/Ministers.md",
-    "People/James Brewver.md",
-    "People/Konrad Fethermann.md",
-    "People/Jones Murmier.md",
-    "People/Tunar Fethermann.md",
-    "People/Hamlin Ulbea.md",
-    "Notes/Greater Nobles.md",
-    "Notes/Major Nobles.md",
-    "Notes/Minor nobles.md",
-    "Factions/Melwoos.md",
-    "Yndir Melwoo.md",
-    "Sessions/Session 5.md",
+    "Gods/Harold.md",
+    "Gaelion.md",
+    "Gerald Pirate King.md",
+    "People/Igor 1.md",
+    "Notes/Kaldwin Army.md",
+    "Ting vi kan gøre.md",
+    "Samson.md",
+    "People/Igor.md",
+    "Udnan Recap.md",
+    "Udnan lore.md",
+    "Gods/Adrana.md",
+    "Notes/Udnan lore.md",
+    "People/Gerald Pirate King 1.md",
+    "People/Gaelion 1.md",
+    "People/Brandon 1.md",
+    "Notes/Udnan Recap 1.md",
+    "Notes/Udnan lore 1.md",
+    "People/Samson 1.md",
+    "Gods/Adrana.md",
+    "Factions/Mülner.md",
+    "People/Samson.md",
     "Untitled.canvas",
     "Templates",
     "Sessions",

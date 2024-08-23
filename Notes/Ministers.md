@@ -19,7 +19,7 @@ Artisans - [[Brandon]]
 	Aftale omkring [[Wraithiron]] smedning
 	with us
 
-Internal trade (Logistik) - [[Igor]]
+Internal trade (Logistik) - [[Igor 1]]
 - Puppet af Felix
 
 External trade - vacant
