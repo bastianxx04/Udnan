@@ -1,3 +1,5 @@
+#Notes 
+
 Simon:
 Retire ved et tempel til Krixar
 

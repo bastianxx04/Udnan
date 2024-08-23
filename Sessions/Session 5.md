@@ -4,6 +4,8 @@ In-game date at start: **10 Janurary** 10:00
 
 Vi starter i indgangen til [[Asmundgard]]
 
+Vi har fået et [[Udnan Recap]]
+
 ---
 ### **10 januar**
 
@@ -43,7 +45,7 @@ Vi bliver påbudt at "tage os af det"
 
 -inquisition skib er ankommet off screen-
 
-Timmothy finder [[Hamlin Ulbea]] (internal trade minister) og  [[Konrad Ulbea]] (handels minister) og [[Tunar Fethermann]] (Justits minister)
+Timmothy finder [[Hamlin Ulbea]] (internal trade minister) og  [[Konrad Fethermann]] (handels minister) og [[Tunar Fethermann]] (Justits minister)
 
 Timmy kommer i ene-rum med [[Hamlin Ulbea]] og får aftalt at sende noget malm der ned når der er bedere tider.
 
@@ -82,6 +84,13 @@ Vi har aquired en masse fiske og skibs grej, og vi teleporter til [[Fishermans R
 
 En drunkard viser os hen til [[Gerald Pirate King]] som sælger os 1000 lb mad og 200 lb rom for 110 gp
 
-Session end: 13:00 14. Januar
+Session end: 16:00 14. Januar
 
 Vi har lige dumpet et halvt ton mad ved merchant tower 
+
+
+* * *
+
+Last session: [[Session 4]]
+
+Next session: [[Session 6]]

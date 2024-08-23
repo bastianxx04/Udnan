@@ -4,7 +4,7 @@ Janurary  8/30 10:00
 ```
 0    5    10   15   20   25   30  
 [----|----|----|----|----|----X]	JANURARY
-          ^  
+            ^  
 ```
 
 Day 11 DECEMBER is when we have to drop off the notes \[IN THE ELF CAVE\]  

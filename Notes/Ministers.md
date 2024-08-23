@@ -10,9 +10,9 @@ Espionage - Missing - Placeholder 3 årig dreng adopteret af [[Lucious]]
 
 Food - [[Timmothy Feyheart]]
 
-Fishing - [[Hamlin Ulbea]]
+Fishing - [[Tunar Fethermann]]
 
-Mining - 
+Mining - [[Yndir Melwoo]]
 	Against us
 
 Artisans - [[Brandon]]
@@ -22,19 +22,16 @@ Artisans - [[Brandon]]
 Internal trade (Logistik) - [[Igor]]
 - Puppet af Felix
 
-External trade - [[James Brewver]]
-	Against us
+External trade - vacant
 
-Finanace - [[Konrad Ulbea]]
+Finanace - vacant
 
 State
 
 Krig - [[Lucious]]
 - Puppet af Lucious
 
-Justits minister -[[Tunar Fethermann]]
-	Aligned med Krigsminister under sidste valg
-	Søger stemmer til at blive statsminister
+Justits minister - [[Jones Murmier]]
 
 Statsminister - [[Michael Cunningham]]
 - Gamle krigsminister

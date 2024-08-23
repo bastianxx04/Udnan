@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d8317d058b1ed5e5",
+            "id": "51216f820ad82dc9",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 4.md",
+                "file": "Sessions/Session 6.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,43 +22,79 @@
             }
           },
           {
-            "id": "e316e2226bb261e7",
+            "id": "334e056fedb7ca68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/Wraithite.md",
+                "file": "Notes/Ministers.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bc7c1e2355431287",
+            "id": "a7b51ca71f286c35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Udnan.md",
+                "file": "People/Konrad Fethermann.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "51216f820ad82dc9",
+            "id": "1520c6d1e5629687",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 4.md",
+                "file": "Notes/Greater Nobles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d23352289872b85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gods/Krixar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c649153d27a7c41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Felix.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17434a132223c039",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adrana.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -117,6 +153,7 @@
       {
         "id": "4dd2fa4cdc7a8f76",
         "type": "tabs",
+        "dimension": 44.90384615384615,
         "children": [
           {
             "id": "1ace28e9d7e686ed",
@@ -124,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 4.md",
+                "file": "Gods/Krixar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Session 4.md",
+                "file": "Gods/Krixar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Session 4.md"
+                "file": "Gods/Krixar.md"
               }
             }
           },
@@ -181,10 +218,29 @@
             }
           }
         ]
+      },
+      {
+        "id": "b65be6f22bfe6ad2",
+        "type": "tabs",
+        "dimension": 55.096153846153854,
+        "children": [
+          {
+            "id": "735c8c33aec5e403",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 483.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,34 +252,34 @@
       "random-note:Open random note": false
     }
   },
-  "active": "51216f820ad82dc9",
+  "active": "9d23352289872b85",
   "lastOpenFiles": [
-    "People/Michael Cunningham.md",
-    "Brandon.md",
-    "Calendar.md",
-    "End-game.md",
-    "Gaelion.md",
-    "Gerald Pirate King.md",
-    "Igor.md",
     "Udnan lore.md",
     "Udnan Recap.md",
-    "Ting vi kan gøre.md",
-    "Sessions/Session 5.md",
     "Samson.md",
-    "Sessions/Session 4.md",
-    "Factions/Wraithite.md",
-    "People/Thurorlum Limonite.md",
-    "Factions/Sillestone.md",
-    "Factions/Pyrite.md",
-    "Factions/Limonite.md",
-    "People/Hakren Thunderbringer.md",
-    "People/Goldum Pyrite.md",
-    "Notes/Det politiske system hos dværgene.md",
-    "People/Destrem Sillestone.md",
-    "Udnan.md",
-    "Factions/Dwarves.md",
-    "Factions/Magnetide.md",
-    "People/Gronger Magnetide.md",
+    "Igor.md",
+    "Gerald Pirate King.md",
+    "Gaelion.md",
+    "Brandon.md",
+    "Sessions/Session 6.md",
+    "Calendar.md",
+    "People/Felix.md",
+    "Adrana.md",
+    "Notes/Gods.md",
+    "Gods/Agadera.md",
+    "Gods/Krixar.md",
+    "Notes/Ministers.md",
+    "People/James Brewver.md",
+    "People/Konrad Fethermann.md",
+    "People/Jones Murmier.md",
+    "People/Tunar Fethermann.md",
+    "People/Hamlin Ulbea.md",
+    "Notes/Greater Nobles.md",
+    "Notes/Major Nobles.md",
+    "Notes/Minor nobles.md",
+    "Factions/Melwoos.md",
+    "Yndir Melwoo.md",
+    "Sessions/Session 5.md",
     "Untitled.canvas",
     "Templates",
     "Sessions",
