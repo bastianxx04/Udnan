@@ -4,97 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "dcd57b81f33c7309",
+        "id": "a888efc2fc20fd22",
         "type": "tabs",
         "children": [
           {
-            "id": "51216f820ad82dc9",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Mülner.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "334e056fedb7ca68",
+            "id": "540a82760c7acf6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Ministers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1520c6d1e5629687",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Greater Nobles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d23352289872b85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gods/Krixar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c649153d27a7c41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Felix.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10079744d90f3a4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ting vi kan gøre.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9ce0b767d08483c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gods/Adrana.md",
+                "file": "Sessions/Session 6.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gods/Adrana.md",
+                "file": "Sessions/Session 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gods/Adrana.md",
+                "file": "Sessions/Session 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gods/Adrana.md"
+                "file": "Sessions/Session 6.md"
               }
             }
           },
@@ -248,8 +173,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "52819b67b12a1a7c",
+  "active": "540a82760c7acf6b",
   "lastOpenFiles": [
+    "Factions/Sølvets Legion.md",
+    "Ting vi kan gøre.md",
+    "People/Felix.md",
+    "Gods/Krixar.md",
+    "Notes/Greater Nobles.md",
+    "Notes/Ministers.md",
+    "Factions/Mülner.md",
+    "Gods/Symponia.md",
+    "People/Yndir Melwoo.md",
     "End-game.md",
     "Brandon.md",
     "Gods/Harold.md",
@@ -257,7 +191,6 @@
     "Gerald Pirate King.md",
     "People/Igor 1.md",
     "Notes/Kaldwin Army.md",
-    "Ting vi kan gøre.md",
     "Samson.md",
     "People/Igor.md",
     "Udnan Recap.md",
@@ -268,11 +201,6 @@
     "People/Gaelion 1.md",
     "People/Brandon 1.md",
     "Notes/Udnan Recap 1.md",
-    "Notes/Udnan lore 1.md",
-    "People/Samson 1.md",
-    "Gods/Adrana.md",
-    "Factions/Mülner.md",
-    "People/Samson.md",
     "Untitled.canvas",
     "Templates",
     "Sessions",
