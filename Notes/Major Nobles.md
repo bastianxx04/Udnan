@@ -1,5 +1,6 @@
 #Notes 
 #Nobles 
+[[Greater Nobles]]
 
 List of old major nobles
 [[Ashenworths]]

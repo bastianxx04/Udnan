@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cafa997b69989190",
+        "id": "dcd57b81f33c7309",
         "type": "tabs",
         "children": [
           {
-            "id": "fffd735cc1af1b53",
+            "id": "51216f820ad82dc9",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Udnan.md",
+                "file": "Sessions/Session 6.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,105 +22,79 @@
             }
           },
           {
-            "id": "1fc49c1f5da71e69",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/Session 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "d23ef9548de71f86",
+            "id": "334e056fedb7ca68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/Asmundgard.md",
+                "file": "Notes/Ministers.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cf1f8d13ad641c27",
+            "id": "a7b51ca71f286c35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Zoltan Mangafan.md",
+                "file": "People/Konrad Fethermann.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1c39e5bf3b9e68e3",
+            "id": "1520c6d1e5629687",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/Dwarves.md",
+                "file": "Notes/Greater Nobles.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "884bc12da5f7e7ff",
+            "id": "9d23352289872b85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Dwarf Tunnels.md",
+                "file": "Gods/Krixar.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3d711c7a0390dde9",
+            "id": "4c649153d27a7c41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/Asmundgard.md",
+                "file": "People/Felix.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f7f9554ee4f266f4",
+            "id": "17434a132223c039",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/Dwarves.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a052af844ff2150",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Alforgeg Zincite.md",
+                "file": "Adrana.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -149,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Dwarves",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -179,6 +153,7 @@
       {
         "id": "4dd2fa4cdc7a8f76",
         "type": "tabs",
+        "dimension": 44.90384615384615,
         "children": [
           {
             "id": "1ace28e9d7e686ed",
@@ -186,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Alforgeg Zincite.md",
+                "file": "Gods/Krixar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Alforgeg Zincite.md",
+                "file": "Gods/Krixar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +201,38 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Alforgeg Zincite.md"
+                "file": "Gods/Krixar.md"
+              }
+            }
+          },
+          {
+            "id": "a76a0e4a8fee28f2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b65be6f22bfe6ad2",
+        "type": "tabs",
+        "dimension": 55.096153846153854,
+        "children": [
+          {
+            "id": "735c8c33aec5e403",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -234,7 +240,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 483.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,34 +252,34 @@
       "random-note:Open random note": false
     }
   },
-  "active": "52819b67b12a1a7c",
+  "active": "9d23352289872b85",
   "lastOpenFiles": [
-    "Places/Asmundgard.md",
-    "People/Belliara Hundier.md",
-    "Notes/Dwarf Tunnels.md",
-    "People/Edward Oxenfurt.md",
-    "People/Myo Pontius.md",
-    "People/Old One Eye.md",
-    "Notes/Simons Shit List.md",
-    "Factions/Zincite.md",
-    "People/Alforgeg Zincite.md",
-    "Sessions/Session 3.md",
-    "Udnan.md",
-    "Factions/Dwarves.md",
-    "Places/Parchstone.md",
-    "Factions/Magnetide.md",
-    "People/Gronger Magnetide.md",
-    "People/Zoltan Mangafan.md",
-    "Factions/Handelsflåden.md",
-    "Countries/Jade emperiet.md",
+    "Sessions/Session 6.md",
+    "Calendar.md",
     "People/Felix.md",
-    "Gods/Jade Dragon.md",
+    "Adrana.md",
+    "Notes/Gods.md",
+    "Gods/Agadera.md",
+    "Gods/Krixar.md",
     "Notes/Ministers.md",
-    "Factions/Edwins Party.md",
-    "People/Hammus Tyrvald.md",
-    "Factions/Templars.md",
-    "Factions/Aleel.md",
-    "People/Professeor Jaccun.md",
+    "People/James Brewver.md",
+    "People/Konrad Fethermann.md",
+    "People/Jones Murmier.md",
+    "People/Tunar Fethermann.md",
+    "People/Hamlin Ulbea.md",
+    "Notes/Greater Nobles.md",
+    "Notes/Major Nobles.md",
+    "Notes/Minor nobles.md",
+    "Factions/Melwoos.md",
+    "Yndir Melwoo.md",
+    "Sessions/Session 5.md",
+    "Symponia.md",
+    "Harold.md",
+    "Kaldwin Army.md",
+    "Sølvets Legion.md",
+    "Places/Port Royal.md",
+    "Factions/Inkvisitionen.md",
+    "Udnan.md",
     "Untitled.canvas",
     "Templates",
     "Sessions",

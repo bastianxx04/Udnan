@@ -1,5 +1,6 @@
 #Notes 
 #Nobles 
+[[Major Nobles]]
 
 Liste af gamle Minor Nobles:
 [[Aleel]]
@@ -7,16 +8,16 @@ Liste af gamle Minor Nobles:
 [[Chapdalls]]
 [[Concoll]]
 [[Eaglesmith]]
-[[Edwinfellows ]]
+[[Edwinfellows]]
 [[Kaldwin]]
-[[Melwoos	]]
-[[Murmier ]]
+[[Melwoos]]
+[[Murmier]]
 [[Nighthill]]
 [[Pittfort]]
 [[Pittgett]]
-[[Reelmi	]]
+[[Reelmi]]
 [[Slayte]]
 [[Ulbea]]
 [[Undron]]
-[[Whitkind ]]
+[[Whitkind]]
 

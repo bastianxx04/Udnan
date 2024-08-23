@@ -2,6 +2,6 @@
 
 Fra [[Murmier]] familien
 
-Han er fiskeriminister
+Han er Justits minister
 
 [[Ministers]]

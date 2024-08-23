@@ -7,7 +7,7 @@ known memers:
 
 [[Lady Barnsworth]]
 
-[[Krigsminister]]
+[[Michael Cunningham]]
 
 [[Hofmesteren]]
 

@@ -2,6 +2,6 @@
 
 Af [[Brewver]] familien
 
-External trade minister
+ex-External trade minister
 
 [[Ministers]]

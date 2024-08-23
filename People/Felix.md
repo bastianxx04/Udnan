@@ -2,6 +2,38 @@
 
 Leader of [[Empire of Man]]
 
+Info fra ringen:
+
+Fulde navn: Felix Adrana
+
+Fjerde fødte søn af Deus Adrana også kendt som Emporor of Mankind
+
+Denne demigud er også kendt på Udnan som Udnans klogeste mand
+
+Styrer Folkets legion, som lige nu sætter folkemængde og uortodokse taktikker øverst
+
+Nuværende er han de-facto overhoved over empire of man, og er i åben krig med sultanatet
+
+Vil gerne have udnan kendt internationalt, og have kontrol over hele udnan øen
+
+han er omkring 253 år gammel
+
+har aldrig være gift
+
+Og har ikke kontakt til hans 3 brødre
+
+
+
+
+
+
+
+
+
+
+---
+Noter fra Sigurd:
+
 Felix The Man
 Nationalist, magtliderlig, mistænksom, kompetent
 

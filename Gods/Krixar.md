@@ -15,8 +15,10 @@ Insignia: Rød Sol, med sorte takker.
 
 Domains:
 Law - MAIN ASPECT
-Chaos
-Hatred
+Chaos - Dette er [[Harold]]
+Hatred - Released fra [[Maine]] kirke
+(Compassion, trapped i paladsets fangekælder, hedder [[Symponia]])
+????? - Mystery domain
 
 En gammel gud der er blevet erstattet af gamle guder, og Maine vækkede ham fra sin slumber
 

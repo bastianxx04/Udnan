@@ -1,38 +1,39 @@
 #Notes 
 
-Seafaring - Dead - taken over by [[Murmier]] - [[Andrew Murmier]]  
+Seafaring - [[Hamlin Ulbea]]
 
-Religion - [[Myo Pontius]]
+Religion - [[Myo Pontius]] 
+- puppet af Felix
 
-Espionage - Missing - Placeholder 3 årigt dreng
+Espionage - Missing - Placeholder 3 årig dreng adopteret af [[Lucious]]
+- Puppet af Felix
 
 Food - [[Timmothy Feyheart]]
 
-Fishing - [[Murmier]] - [[Jones Murmier]]
-	Købt af, af [[Timmothy Feyheart]]
-	with us
+Fishing - [[Tunar Fethermann]]
 
-Mining
+Mining - [[Yndir Melwoo]]
 	Against us
 
-Artisans
+Artisans - [[Brandon]]
 	Aftale omkring [[Wraithiron]] smedning
 	with us
 
-Internal trade (Logistik) - [[Hamlin Ulbea]]
-	Reasonable guy
+Internal trade (Logistik) - [[Igor]]
+- Puppet af Felix
 
-External trade - [[James Brewver]]
-	Against us
+External trade - vacant
 
-Finanace - [[Konrad Ulbea]]
+Finanace - vacant
 
 State
 
-Krig - [[Cunninghams]] - [[Krigsminister]]
-	Dumb cunt 
-	Against us
+Krig - [[Lucious]]
+- Puppet af Lucious
 
-Justits minister -[[Tunar Fethermann]]
-	Aligned med Krigsminister under sidste valg
-	Søger stemmer til at blive statsminister
+Justits minister - [[Jones Murmier]]
+
+Statsminister - [[Michael Cunningham]]
+- Gamle krigsminister
+- Puppet af Felix
+

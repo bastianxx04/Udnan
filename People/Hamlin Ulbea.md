@@ -1,5 +1,5 @@
 #person 
 
-Logistik [[Ministers]]
+Seafaring minister
 
 Fra [[Ulbea]] familien
