@@ -4,22 +4,61 @@
     "type": "split",
     "children": [
       {
-        "id": "a888efc2fc20fd22",
+        "id": "d4c36e89dfbaafef",
         "type": "tabs",
         "children": [
           {
-            "id": "540a82760c7acf6b",
+            "id": "fdf2d7cfe108a8fe",
             "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ting vi kan gøre.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0714fd2db8555f11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Edicts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "735c8c33aec5e403",
+            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Sessions/Session 6.md",
                 "mode": "source",
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "de2fbc0d31672907",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ting vi kan gøre.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -86,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 6.md",
+                "file": "Ting vi kan gøre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Session 6.md",
+                "file": "Ting vi kan gøre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Session 6.md"
+                "file": "Ting vi kan gøre.md"
               }
             }
           },
@@ -150,11 +189,17 @@
         "dimension": 55.096153846153854,
         "children": [
           {
-            "id": "735c8c33aec5e403",
+            "id": "540a82760c7acf6b",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Calendar.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           }
         ]
@@ -173,14 +218,18 @@
       "random-note:Open random note": false
     }
   },
-  "active": "540a82760c7acf6b",
+  "active": "de2fbc0d31672907",
   "lastOpenFiles": [
-    "Factions/Sølvets Legion.md",
+    "Sessions/Session 7 plan.md",
+    "Notes/Ministers.md",
     "Ting vi kan gøre.md",
+    "Notes/Edicts.md",
+    "Sessions/Session 6.md",
+    "Calendar.md",
+    "Factions/Sølvets Legion.md",
     "People/Felix.md",
     "Gods/Krixar.md",
     "Notes/Greater Nobles.md",
-    "Notes/Ministers.md",
     "Factions/Mülner.md",
     "Gods/Symponia.md",
     "People/Yndir Melwoo.md",
@@ -197,10 +246,6 @@
     "Udnan lore.md",
     "Gods/Adrana.md",
     "Notes/Udnan lore.md",
-    "People/Gerald Pirate King 1.md",
-    "People/Gaelion 1.md",
-    "People/Brandon 1.md",
-    "Notes/Udnan Recap 1.md",
     "Untitled.canvas",
     "Templates",
     "Sessions",

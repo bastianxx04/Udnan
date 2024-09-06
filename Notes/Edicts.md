@@ -42,41 +42,25 @@ Edicts skrevet af Bastian:
 Edicts skrevet af Gustav:
 
 1.  Den royale hær er hermed disbandet og alle tidligere medlemmer skal evakueres fra frontlinjen med det samme!
-    
+
 2.  Templars kontrakt med staten ophører hermed og deres kontrakt videregives til krigsministeren
-    
-3.  Regeringen deles op i 3 ledende parter, primiereministeren repræsentere ministeriet, Maxillian
-    
-    repræsenterer hæren/mercenaries og Felix repræsenterer folket.
-    
+
+3.  Regeringen deles op i 3 ledende parter, primiereministeren repræsentere ministeriet, Maxillian repræsenterer hæren/mercenaries og Felix repræsenterer folket.
+
 4.  Den røde legion vil hermed blive kendt som folkets legion og vil være ordenshånhævende magt.
-    
+ 
 5.  Maximillian er hermed erklæret supreme commander over hæren og kan selv udpege generaller.
-    
-6.  Alle noble titler vil hermed afskaffes og alle landejende mænd vil have fulde rettighed, alle
-    
-    der går imod dette vil blive erklæret rebeller og deres ejendom vil bliver konfiskeret. Alle landejere vil have fuld magt over deres land og udnyttelsesrettigheder.
-    
-7.  Udnan først, altså vil al form for udefrakommende intervention blive slået hårdt ned på. For
-    
-    Udnans egen beskyttelse vil der dog åbnes fuldstændigt op for handel med andre nationer.
-    
-8.  Alt wraithiron er nu statens eje, men ejerne af minerne vil selvfølgelig blive retfærdigt
-    
-    kompenseret.
-    
-9.  Alle ikke landejende mænd og kvinder undtages for skat, men forventes at arbejde gratis for
-    
-    staten en dag om ugen.
-    
-10.  En ny valuta gildings vil nu blive administreret af merchant guilden bundet til gulds værdi men
-    
-    ikke fastlagt. Alle kan i de 3 uger bytte 10 kobber til 12 kobber værd af gildings og kan til hver en tid bytte 1 gilding til dens værdi i kobber. Gildings starter med en værdi af 1 kobber og 1 sølv er en decagilding og 1 guld er 1 centagilding.
-    
-11.  En ny division med navnet fremmedlegionen vil etableres hvor andre racer vil have en mulighed
-    
-    for at vinde borgerskab ved at kæmpe i den nyeligt etablerede division.
-    
-12.  Vi erklærer hermed officielt krig mod sultanatet og inviterer hele deres magt mod os og dermed
-    
-    løfter os til deres niveau. Derfor forventer vi også at være repræsenteret i det internationale council. Vi er villige til at give 1 års eksklusive handelsrettigheder af wraithiron til den nation der indstiller os til councillet.
+
+6.  Alle noble titler vil hermed afskaffes og alle landejende mænd vil have fulde rettighed, alle     der går imod dette vil blive erklæret rebeller og deres ejendom vil bliver konfiskeret. Alle landejere vil have fuld magt over deres land og udnyttelsesrettigheder.
+
+7.  Udnan først, altså vil al form for udefrakommende intervention blive slået hårdt ned på. For Udnans egen beskyttelse vil der dog åbnes fuldstændigt op for handel med andre nationer.
+
+8.  Alt wraithiron er nu statens eje, men ejerne af minerne vil selvfølgelig blive retfærdigt kompenseret.
+
+9.  Alle ikke landejende mænd og kvinder undtages for skat, men forventes at arbejde gratis for staten en dag om ugen.
+
+10.  En ny valuta gildings vil nu blive administreret af merchant guilden bundet til gulds værdi men ikke fastlagt. Alle kan i de 3 uger bytte 10 kobber til 12 kobber værd af gildings og kan til hver en tid bytte 1 gilding til dens værdi i kobber. Gildings starter med en værdi af 1 kobber og 1 sølv er en decagilding og 1 guld er 1 centagilding.
+
+12.  En ny division med navnet fremmedlegionen vil etableres hvor andre racer vil have en mulighed for at vinde borgerskab ved at kæmpe i den nyeligt etablerede division.
+
+13.  Vi erklærer hermed officielt krig mod sultanatet og inviterer hele deres magt mod os og dermed løfter os til deres niveau. Derfor forventer vi også at være repræsenteret i det internationale council. Vi er villige til at give 1 års eksklusive handelsrettigheder af wraithiron til den nation der indstiller os til councillet.
