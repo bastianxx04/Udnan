@@ -16,49 +16,43 @@
                 "file": "Ting vi kan gøre.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Ting vi kan gøre"
             }
           },
           {
-            "id": "0714fd2db8555f11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Edicts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "735c8c33aec5e403",
+            "id": "253a988014e452ff",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 6.md",
+                "file": "Sessions/Session 7.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Session 7"
             }
           },
           {
-            "id": "de2fbc0d31672907",
+            "id": "e6079acc6cc18b94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ting vi kan gøre.md",
+                "file": "Notes/Simons Shit List.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Simons Shit List"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +72,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -93,7 +89,9 @@
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -101,7 +99,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ting vi kan gøre.md",
+                "file": "Sessions/Session 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Session 7"
             }
           },
           {
@@ -142,10 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ting vi kan gøre.md",
+                "file": "Sessions/Session 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Session 6"
             }
           },
           {
@@ -156,7 +160,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -165,8 +171,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ting vi kan gøre.md"
-              }
+                "file": "Sessions/Session 6.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Session 6"
             }
           },
           {
@@ -178,7 +186,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
@@ -199,7 +209,9 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Calendar"
             }
           }
         ]
@@ -218,14 +230,18 @@
       "random-note:Open random note": false
     }
   },
-  "active": "de2fbc0d31672907",
+  "active": "253a988014e452ff",
   "lastOpenFiles": [
-    "Sessions/Session 7 plan.md",
-    "Notes/Ministers.md",
-    "Ting vi kan gøre.md",
-    "Notes/Edicts.md",
-    "Sessions/Session 6.md",
     "Calendar.md",
+    "Sessions/Session 7.md",
+    "Ting vi kan gøre.md",
+    "Notes/Simons Shit List.md",
+    "Factions/Edwins Party.md",
+    "Factions/Edwinfellows.md",
+    "People/Hammus Tyrvald.md",
+    "Sessions/Session 6.md",
+    "Notes/Ministers.md",
+    "Notes/Edicts.md",
     "Factions/Sølvets Legion.md",
     "People/Felix.md",
     "Gods/Krixar.md",
@@ -242,10 +258,6 @@
     "Notes/Kaldwin Army.md",
     "Samson.md",
     "People/Igor.md",
-    "Udnan Recap.md",
-    "Udnan lore.md",
-    "Gods/Adrana.md",
-    "Notes/Udnan lore.md",
     "Untitled.canvas",
     "Templates",
     "Sessions",
