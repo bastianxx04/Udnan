@@ -25,8 +25,9 @@ Og har ikke kontakt til hans 3 brødre
 
 
 
+Kan kaste teleport
 
-
+Whorshipper [[Krixar]]
 
 
 

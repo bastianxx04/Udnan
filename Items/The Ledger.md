@@ -1,0 +1,1 @@
+[[Merchants Guild]] artifact item
